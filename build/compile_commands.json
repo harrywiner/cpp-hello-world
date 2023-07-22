@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/beanboy/Chess/hello-world/build",
+  "command": "/usr/bin/clang++   -g -g -o CMakeFiles/hello-world.dir/src/main.cpp.o -c /home/beanboy/Chess/hello-world/src/main.cpp",
+  "file": "/home/beanboy/Chess/hello-world/src/main.cpp"
+}
+]
